@@ -1,9 +1,13 @@
+**Size**: <!--S|M|L|XL-->
+
 ## Functionnal description
 
+<!--
 What was added functionally. For instance:
 - New button to trigger a nuclear attack
 - Rework of left menu
 - ...
+-->
 
 ## Code modifications
 
