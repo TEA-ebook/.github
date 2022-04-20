@@ -1,4 +1,4 @@
-**Size**: <!--S|M|L|XL-->
+**Size**: <!-- S|M|L|XL -->
 
 ## Functional description
 
@@ -29,18 +29,12 @@ Indicate here tests played to validate your development. For instance:
 
 ## Other details
 
-<!--
-Indicate here important details about your review and your changes
--->
+<!-- Indicate here important details about your review and your changes -->
 
 ## Documentation
 
-<!--
-Related documentation (archi, user, ...) on Confluence
--->
+<!-- Related documentation (archi, user, ...) on Confluence -->
 
 ## Screenshots
 
-<!--
-Relevant screenshots if any
--->
+<!-- Relevant screenshots if any -->
