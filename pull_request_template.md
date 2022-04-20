@@ -1,19 +1,19 @@
 ## Functionnal description
 
-What was added functionally. Instance:
+What was added functionally. For instance:
 - new button to trigger a nuclear attack
 - rework of left menu
 - ...
 
 ## Code modifications
 
-What wad changed in the source code, broadly speaking, without giving too many details. Instance:
+What wad changed in the source code, broadly speaking, without giving too many details. For instance:
 - factorization of module "toto.js" to be compatible with iOS and Android
 - major rework of file build.yaml (renaming, adding triggers, ...)
 
 ## Tests
 
-Indicate here tests played to validate your development. Instance:
+Indicate here tests played to validate your development. For instance:
 - adding of 14 unit tests
 - following manual tests are been played:
   - all combinations iOS/Android have been tested
