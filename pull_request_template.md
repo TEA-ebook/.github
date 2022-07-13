@@ -1,5 +1,5 @@
 **Size**: <!-- S|M|L|XL -->
-**Jira**: <!-- full link to Jira ticket -->
+**Jira**: <!-- full link to Jira dev ticket -->
 
 ## Functional description
 
