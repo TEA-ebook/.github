@@ -1,6 +1,12 @@
 **Size**: <!-- S|M|L|XL -->
 **Jira**: <!-- full link to Jira dev ticket -->
 
+## Checklist
+
+- [ ] Are the commits meaningful?
+- [ ] Are the changes properly covered by automated tests?
+- [ ] Do the changes call for an addition or update of documentation?
+
 ## Functional description
 
 <!--
@@ -10,20 +16,20 @@ What was added functionally. For instance:
 - ...
 -->
 
-## Code modifications
+## Impactful code changes
 
 <!--
-What wad changed in the source code, broadly speaking, without giving too many details. For instance:
-- Factorization of module "toto.js" to be compatible with iOS and Android
+If you made changes structural changes to the code base that will impact how we do things (code organisation, refactoring, build / configuration), list them here. For instance:
+- Split BigThing controller into multiple smaller controllers
+- Change the structure of the spaces configuration
 - Major rework of file build.yaml (renaming, adding triggers, ...)
 -->
 
 ## Tests
 
 <!--
-Indicate here tests played to validate your development. For instance:
-- Adding of 14 unit tests
-- Following manual tests are been played:
+- If the automated test coverage of the changes are not what we do usually, explain why.
+- List what manual tests have been run in addition to automated tests, if any; for example:
   - All combinations iOS/Android have been tested
   - Connection with AppCenter has been tested
 -->
@@ -34,8 +40,8 @@ Indicate here tests played to validate your development. For instance:
 
 ## Documentation
 
-<!-- Related documentation (archi, user, ...) on Confluence -->
+<!-- List documentation changes (with links), if any -->
 
 ## Screenshots
 
-<!-- Relevant screenshots if any -->
+<!-- Relevant screenshots, if any -->
