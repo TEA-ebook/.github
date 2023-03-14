@@ -2,10 +2,11 @@
 **Jira**: <!-- full link to Jira dev ticket -->
 
 ## Checklist
+<!-- This checklist is meant to be ALL checked before submitting your PR for review. -->
 
-- [ ] Are the commits meaningful?
-- [ ] Are the changes properly covered by automated tests?
-- [ ] Do the changes call for an addition or update of documentation?
+- [ ] I have verified that the commits are all meaningful?
+- [ ] I have verified that changes are properly covered by automated tests according to the repository standard?
+- [ ] I have verified that no documentation update or addition is needed or proposed such changes?
 
 ## Functional description
 
