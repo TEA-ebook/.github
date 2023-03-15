@@ -4,9 +4,9 @@
 ## Checklist
 <!-- This checklist is meant to be ALL checked before submitting your PR for review. -->
 
-- [ ] I have verified that the commits are all meaningful?
-- [ ] I have verified that changes are properly covered by automated tests according to the repository standard?
-- [ ] I have verified that no documentation update or addition is needed or proposed such changes?
+- [ ] I have verified that the commits are all meaningful.
+- [ ] I have verified that changes are properly covered by automated tests according to the repository standard.
+- [ ] I have verified that no documentation update or addition is needed or proposed such changes.
 
 ## Functional description
 
