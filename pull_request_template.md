@@ -12,7 +12,7 @@ If not, the PR should not be opened until this is done.
 - [ ] I have verified that the commits are all meaningful.
 - [ ] I have verified that changes are properly covered by automated tests according to the repository standard.
 - [ ] I have verified that no documentation update or addition is needed or proposed such changes.
-- [ ] Minimal QA have been done on the changes according to the repository standard.
+- [ ] I have done minimal QA to validate that my change is working according to the repository standard.
 
 ## Functional description
 
