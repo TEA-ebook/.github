@@ -1,6 +1,5 @@
-**Size**: <!-- S|M|L|XL -->
-
-**Jira**: <!-- full link to Jira dev ticket -->
+**Size**: S|M|L|XL <br/>
+[**Jira**](replace_by_the_story_link)
 
 ## Checklist
 <!--
@@ -13,6 +12,17 @@ If not, the PR should not be opened until this is done.
 - [ ] I have verified that changes are properly covered by automated tests according to the repository standard.
 - [ ] I have verified that no documentation update or addition is needed or proposed such changes.
 - [ ] I have done minimal QA to validate that my change is working according to the repository standard.
+
+<!-- Enable this section if you used AI to generate codes
+
+## AI
+
+> [!CAUTION]
+> This PR used AI to generate part of all code
+ 
+- [ ] The owner has reviewed the PR in details.
+
+-->
 
 ## Functional description
 
