@@ -14,16 +14,15 @@ If not, the PR should not be opened until this is done.
 - [ ] I have done minimal QA to validate that my change is working according to the repository standard.
 
 ## AI
- 
-- [ ] Not used
-- [ ] Assisted — AI provides suggestions, humans write themselves (tab completion, chat consultation).
-- [ ] In the Loop — The agent works, the human checks and approves each step.
-- [ ] On the Loop — Agent works with a strong harness, human reviews the result, not every step.
-- [ ] Unattended — The agent runs without a human at the keyboard; the result is delivered as an MR/Report.
+<!-- Chose one by prefixing with 👉. -->
 
-> [!CAUTION]
-> In case AI was used:
-> - [ ] The PR author has made a first review before submitting the PR. 
+👉 **Not used**  
+**Assisted** — AI provides suggestions, humans write themselves (tab completion, chat consultation).  
+**In the Loop** — The agent works, the human checks and approves each step.  
+**On the Loop** — Agent works with a strong harness, human reviews the result, not every step.  
+**Unattended** — The agent runs without a human at the keyboard; the result is delivered as a PR.
+
+- [ ] The PR author has made a first review before submitting the PR or no AI was used. 
 
 ## Functional description
 
