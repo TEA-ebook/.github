@@ -13,16 +13,17 @@ If not, the PR should not be opened until this is done.
 - [ ] I have verified that no documentation update or addition is needed or proposed such changes.
 - [ ] I have done minimal QA to validate that my change is working according to the repository standard.
 
-<!-- Enable this section if you used AI to generate codes
-
 ## AI
+ 
+- [ ] Not used
+- [ ] Assisted — AI provides suggestions, humans write themselves (tab completion, chat consultation).
+- [ ] In the Loop — The agent works, the human checks and approves each step.
+- [ ] On the Loop — Agent works with a strong harness, human reviews the result, not every step.
+- [ ] Unattended — The agent runs without a human at the keyboard; the result is delivered as an MR/Report.
 
 > [!CAUTION]
-> This PR used AI to generate part of all code
- 
-- [ ] The owner has reviewed the PR in details.
-
--->
+> In case AI was used:
+> - [ ] The PR author has made a first review before submitting the PR. 
 
 ## Functional description
 
