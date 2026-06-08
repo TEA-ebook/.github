@@ -1,5 +1,5 @@
 **Size**: S|M|L|XL <br/>
-[**Jira**](replace_by_the_story_link)
+**Jira**: <!-- Paste the link here -->
 
 ## Checklist
 <!--
