@@ -1,5 +1,5 @@
 **Size**: S|M|L|XL <br/>
-**Jira**: <!-- Paste the link here -->
+**Jira**: <https://tea-ebook.atlassian.net/browse/LIS-XXXX> <!-- Replace XXXX with the ticket number  -->
 
 ## Checklist
 <!--
