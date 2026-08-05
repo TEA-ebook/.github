@@ -1,24 +1,8 @@
+> Make sure that you follow the process and the requirement to open a new pull request:
+> https://tea-ebook.atlassian.net/wiki/spaces/RD/pages/1293975612/Pull+Requests#Opening-a-Pull-Request
+
 **Size**: S|M|L|XL <br/>
 **Jira**: <https://tea-ebook.atlassian.net/browse/XXXX> <!-- Replace XXXX with the ticket id  -->
-
-## Checklist
-<!--
-This checklist is meant to be **ALL** checked before submitting your PR for review.
-
-If not, the PR should not be opened until this is done.
--->
-
-- [ ] I have verified that the commits are all meaningful.
-- [ ] I have verified that changes are properly covered by automated tests according to the repository standard.
-- [ ] I have verified that no documentation update or addition is needed or proposed such changes.
-- [ ] I have done minimal QA to validate that my change is working according to the repository standard.
-- [ ] I have added the correct **AI** label to the PR:  
-      *AI: Not Used*  
-      *AI: Assisted* — AI provides suggestions, humans write themselves (tab completion, chat consultation).  
-      *AI: In the Loop* — The agent works, the human checks and approves each step.  
-      *AI: On the Loop* — Agent works with a strong harness, human reviews the result, not every step.  
-      *AI: Unattended* — The agent runs without a human at the keyboard; the result is delivered as a PR.
-- [ ] The PR author has made a first review before submitting the PR or no AI was used.
 
 ## Functional description
 
