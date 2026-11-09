@@ -42,3 +42,7 @@ If you made changes structural changes to the code base that will impact how we 
 ## Screenshots
 
 <!-- Relevant screenshots, if any -->
+
+## Checklist (review-generate)
+
+`Run /review-generate locally and paste the resulting checklist table here (optional but recommended).`
